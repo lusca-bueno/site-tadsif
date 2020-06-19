@@ -16,7 +16,8 @@ Format: ![Alt Text](url)
 nada sauvel | linguini
 food truck | dona benta
 
-#chorou? :pleading_face: :pleading_face: :sob: :sob: :sob: 	:smiling_imp: 	:smiling_imp:
+*chorou?  
+:pleading_face:  :pleading_face:  :sob: :sob: :sob: 	:smiling_imp: 	:smiling_imp:
   
   
   
