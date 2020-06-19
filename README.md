@@ -23,6 +23,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 ![GitHub Logo](https://lh3.googleusercontent.com/proxy/dCdlbRjTNReShZE6GTC3HiEwXSzLxsovOL4p3f6DQI3BYITkU3H7eOz22hsJhO9UrtzYw3ULQQyqwCPW_R5FJys66h8INWDLaYPOBRUw6Z8MKxoSAl7XmugiThlWX_cJ9bnV69ty57zVXO4CZS7kMR6QHJ_ZTl8A0KVRGGo0pSQQ1wuPCQ)
 Format: !(url)
 
